@@ -176,7 +176,8 @@
   <!--Anaconda-->
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff"/>
   
-  <br/>
+  <br>
+  <br>
   
   ## 📊 Github Stats
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ja-efan&theme=nord_dark)
@@ -185,7 +186,9 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ja-efan&theme=nord_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ja-efan&theme=nord_dark)
   
-
+  <br>
+  <br>
+  
   ## 〽️ BOJ Rating
   [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=woghks1213y)](https://solved.ac/woghks1213y)
 
