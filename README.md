@@ -129,6 +129,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)"/>
   <!--Numpy-->
   <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
+  <!-- OpenCV -->
+  <img src="https://img.shields.io/badge/opencv-%235C3EE8?logo=opencv&logoColor=white">
   <!--Matplotlib-->
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff"/>
   
@@ -188,7 +190,7 @@
   
   <br>
   <br>
-  
+
   ## 〽️ BOJ Rating
   [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=woghks1213y)](https://solved.ac/woghks1213y)
 
