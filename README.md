@@ -14,34 +14,8 @@
 
   ###  AI / MLOps 엔지니어가 되기 위해 공부하고 있는 **연재환** 입니다.
 
-  <br/>
-
-  ## 📌 Projects
-
-  | 프로젝트명 | 기간 | 개요 |
-  |-----------|------|------|
-  | [**Hello Job**](https://github.com/Ja-efan/HelloJob) | 2025.04 - 2025.05 (5W) | 기업 분석부터 자기소개서 작성 그리고 모의면접까지 개발자 취업 준비 올인원 플랫폼 |
-  | [**쇼쇼숏**](https://github.com/Ja-efan/shoshoshorts) | 2025.02 - 2025.04 (6W) | 사용자 스토리 기반 숏폼 제작 플랫폼 |
-  | [**MeetGenius**](https://github.com/Ja-efan/MeetGenius) | 2025.01 - 2025.02 (6W) | 온프레미스 환경에서의 효율적인 회의를 위한 온디바이스 AI 회의 비서 |
-  | **無愚題 (무우제)** | 2024.11 - 2024.11 | 뉴스 데이터 분석 및 사용자 맞춤 뉴스 큐레이션 서비스 |
-  | **2024 빅콘테스트** | 2024.09 - 2024.11 | 지역경제 활성화를 위한 서비스 제안 (백제문화제편) |
-  | **ILLEGO** | 2023.03 - 2023.11 | 산학협력 캡스톤 디자인 프로젝트 w/ (주)컨텍<br/>인공위성 영상과 건축물 메타데이터를 활용한 무허가 건축물 탐지 |
-  | **SW 중심대학 공동 AI 경진대회** | 2023.07 - 2023.07 | 위성 이미지 건물 영역 분할 <br/>(Satellite Image Building Area Segmentation) |
-
   <br>
 
-  ## 📚 Studies 
-    
-  | 스터디명 | 기간 |
-  |---------|------|
-  | [코요테 (알고리즘 스터디)](https://github.com/Ja-efan/CoyoTe) | 2025.03 ~ |
-  | [Docker 스터디](https://github.com/Ja-efan/SSAFY-Docker-Study) | 2024.11 - 2024.11 |
-  | [알고리즘 스터디](https://github.com/Ja-efan/Algorithm_Study_TypeA) | 2024.07 - 2024.10 |
-      
-
-
-  <br/>
-  
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
@@ -109,6 +83,45 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff"/>
   
   <br>
+
+  ## 🎓 Education 
+
+  | 교육기관 | 기간 | 전공/과정 | 성적 |
+  |---------|------|----------|------|
+  | 청주대성고등학교 | 2014.03 - 2017.02 (졸업) | - | - |
+  | 청주대학교 | 2018.03 - 2020.02 (중퇴) | 디지털보안전공 | 4.28 / 4.5 |
+  | 충남대학교 | 2020.03 - 2024.02 (편입 / 졸업) | 컴퓨터공학과 | 3.67 / 4.5 |
+  | 삼성 청년 SW/AI 아카데미 12기 | 2024.07 - 2025.06 | 데이터트랙 1기 | - |
+  
+   <br>
+
+  ## 🏆 Awards 
+  - 삼성 청년 SW/AI 아카데미 자율 프로젝트 최우수상 (1등)
+
+  <br>
+
+  ## 📌 Projects
+
+  | 프로젝트명 | 기간 | 개요 |
+  |-----------|------|------|
+  | [**Hello Job**](https://github.com/Ja-efan/HelloJob) 🥇 | 2025.04 - 2025.05 (5W) | 기업 분석부터 자기소개서 작성 그리고 모의면접까지 개발자 취업 준비 올인원 플랫폼 |
+  | [**쇼쇼숏**](https://github.com/Ja-efan/shoshoshorts) | 2025.02 - 2025.04 (6W) | 사용자 스토리 기반 숏폼 제작 플랫폼 |
+  | [**MeetGenius**](https://github.com/Ja-efan/MeetGenius) | 2025.01 - 2025.02 (6W) | 온프레미스 환경에서의 효율적인 회의를 위한 온디바이스 AI 회의 비서 |
+  | **無愚題 (무우제)** | 2024.11 - 2024.11 | 뉴스 데이터 분석 및 사용자 맞춤 뉴스 큐레이션 서비스 |
+  | **2024 빅콘테스트** | 2024.09 - 2024.11 | 지역경제 활성화를 위한 서비스 제안 (백제문화제편) |
+  | **ILLEGO** | 2023.03 - 2023.11 | 산학협력 캡스톤 디자인 프로젝트 w/ (주)컨텍<br/>인공위성 영상과 건축물 메타데이터를 활용한 무허가 건축물 탐지 |
+  | **SW 중심대학 공동 AI 경진대회** | 2023.07 - 2023.07 | 위성 이미지 건물 영역 분할 <br/>(Satellite Image Building Area Segmentation) |
+
+  <br>
+
+  ## 📚 Studies 
+    
+  | 스터디명 | 기간 |
+  |---------|------|
+  | [코요테 (알고리즘 스터디)](https://github.com/Ja-efan/CoyoTe) | 2025.03 ~ |
+  | [Docker 스터디](https://github.com/Ja-efan/SSAFY-Docker-Study) | 2024.11 - 2024.11 |
+  | [알고리즘 스터디](https://github.com/Ja-efan/Algorithm_Study_TypeA) | 2024.07 - 2024.10 |
+  
   <br>
   
   ## 📊 Github Stats
@@ -118,7 +131,6 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ja-efan&theme=nord_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ja-efan&theme=nord_dark)
   
-  <br>
   <br>
 
   ## ⭐ BOJ Rating
