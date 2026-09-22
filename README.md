@@ -10,9 +10,10 @@ AI Engineer focused on machine learning, data products, and backend systems.
 ## Tech Stack
 
 - **Languages:** Python, Java, TypeScript
-- **Machine Learning and Data:** PyTorch, Hugging Face, scikit-learn, Pandas, NumPy, OpenCV, Matplotlib
+- **Machine Learning and Data:** LangGraph, PyTorch, Hugging Face, scikit-learn, Pandas, NumPy, OpenCV, Matplotlib
 - **Backend:** FastAPI, Django
 - **Databases:** MySQL, MariaDB, PostgreSQL, MongoDB, ChromaDB
+- **Cloud:** AWS
 - **DevOps and Tools:** Docker, GitLab CI, Jenkins, Git, GitHub, Jupyter, Google Colab
 
 ## Selected Projects
