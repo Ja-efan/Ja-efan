@@ -5,7 +5,7 @@ I define problems, experiment with models and agents, integrate them into produc
 
 I want to build products that let people and AI share responsibilities in ways that fit the task.
 
-[Portfolio (한국어)](https://jaefan.notion.site/Jaehwan-Yeon-200d2e168cd380abb942c7bf82c704b5) · [Email](mailto:jaehwan.contact@gmail.com)
+[Portfolio (한국어)](https://jaefan.notion.site/Jaehwan-Yeon-200d2e168cd380abb942c7bf82c704b5) · [LinkedIn](https://www.linkedin.com/in/jaehwan-yeon-600854308/) · [Email](mailto:jaehwan.contact@gmail.com)
 
 ## Experience
 
@@ -38,10 +38,11 @@ Connected video-frame analysis and search with transcript-based editing, giving 
 | [Hello Job](https://github.com/Ja-efan/HelloJob) | Company-research agents, a SWOT MCP tool, and AI backend pipelines for job applications and interviews | Apr–May 2025 |
 | [쇼쇼숏](https://github.com/Ja-efan/shoshoshorts) | Image-generation backend and prompts; AWS/GCP infrastructure and CI/CD | Feb–Apr 2025 |
 | [MeetGenius](https://github.com/Ja-efan/MeetGenius) | On-device RAG and meeting summaries with EXAONE, FastAPI, and Jetson Orin Nano | Jan–Feb 2025 |
+| [swot-analysis-mcp](https://github.com/Ja-efan/swot-analysis-mcp) | MCP server for structured company SWOT analysis | 2025 |
 
 ## Core Technologies
 
-Python · TypeScript · LLM Agents · MCP · PyTorch · FastAPI · Docker · AWS · GCP
+Python · TypeScript · LLM Agents · LangGraph · MCP · PyTorch · FastAPI · Docker · AWS · GCP
 
 ## Education & Awards
 
