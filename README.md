@@ -1,52 +1,35 @@
 # Jaehwan Yeon · AI Engineer
 
-I build products that use AI to help people with their work.
-I define problems, experiment with models and agents, integrate them into products, and evaluate whether the results are useful in practice.
+**English** · [한국어](README.ko.md)
 
-I want to build products that let people and AI share responsibilities in ways that fit the task.
+I build AI products, from defining user problems to developing and evaluating agents.
 
-[Portfolio (한국어)](https://jaefan.notion.site/Jaehwan-Yeon-200d2e168cd380abb942c7bf82c704b5) · [LinkedIn](https://www.linkedin.com/in/jaehwan-yeon-600854308/) · [Email](mailto:jaehwan.contact@gmail.com)
+[Portfolio (Korean)](https://jaefan.notion.site/Jaehwan-Yeon-200d2e168cd380abb942c7bf82c704b5) · [jaehwan.contact@gmail.com](mailto:jaehwan.contact@gmail.com)
 
-## Experience
+## Cutback · AI Engineer
+Aug 2025–Sep 2026
 
-**Cutback / Selects · AI Engineer · 2025.08–2026.09**
+**Script-based Editing: Initial Development and Pipeline Redesign**  
+Built the initial script-based editing feature and later led its redesign based on user interviews. Co-designed the pipeline, coordinated module interfaces, structured input and output data, and implemented and evaluated the retake-grouping module.
 
-Developed, evaluated, and operated LLM-based video editing pipelines, and led the team developing script-based editing.
+**Visual Editing: Building a Video Editing Pipeline with Visual Context**  
+Built a pipeline that identifies visually meaningful segments from video keyframes and generates descriptions for editing and search. Extended editing support to selecting and assembling requested scenes in videos without speech.
 
-## Selected Work
+**Agent Optimization: Reducing Execution Time and Cost**  
+Optimized how agents receive context and execute tasks by reusing common inputs and preparing task data in advance. Context caching reduced server-side script-based editing costs by about 30%, while optimizations including prefetch and single-shot prompting cut execution time by about 21%.
 
-### [Evaluating AI outputs without a single correct answer](https://jaefan.notion.site/3e3d2e168cd38140b393c0732373272a)
+**Evaluation: Automated Evaluation for Multiple Valid Outputs**  
+Replaced fixed-label matching in video topic segmentation with LLM-based evaluation against the existing guidelines to recognize multiple valid outputs. Automated batch evaluations and recorded results so model and prompt changes could be compared.
 
-Built an LLM-based evaluator for dividing videos into topics, where several answers can be valid. Evaluating against editing guidelines reduced repeated labeling work.
+**Architecture Wiki: Keeping Team Knowledge in Sync with Code**  
+Built a pipeline that analyzes code changes, proposes updates to the Markdown architecture wiki, and shares updates through Slack. Gave teammates and coding agents a shared reference for module structure and dependencies, supporting collaboration and onboarding.
 
-### [Moving from fixed workflows to an editing agent](https://jaefan.notion.site/3e1d2e168cd3815aa952ff6ef13fd4b6)
+## Selected Projects
 
-Helped shape the move beyond predefined workflows and implemented a chat-based editing agent pilot. Tuning subagent effort **reduced execution time by 21.3% in a local comparison**.
+- [Hello Job](https://github.com/Ja-efan/HelloJob) — Company-research agents, a [SWOT MCP tool](https://github.com/Ja-efan/swot-analysis-mcp), and an AI backend for job applications.
+- [Shoshoshorts](https://github.com/Ja-efan/shoshoshorts) — Image-generation backend, AWS/GCP infrastructure, and CI/CD.
+- [MeetGenius](https://github.com/Ja-efan/MeetGenius) — On-device RAG and meeting summaries on Jetson Orin Nano.
 
-### [Automating prompt optimization with evaluation feedback](https://jaefan.notion.site/3e1d2e168cd3813e812ad1ad6815e493)
+## Technologies
 
-Owned the module that groups repeated recording attempts for editors to compare, from defining grouping rules to automating prompt refinement. Achieved **95.7% group recall and 95.4% take recall on development data**.
-
-### [Combining visual and language signals for video editing](https://jaefan.notion.site/3e1d2e168cd381d09254e82e0b64feb8)
-
-Connected video-frame analysis and search with transcript-based editing, giving the system visual context for moments that speech alone cannot capture.
-
-## Selected Public Projects
-
-| Project | My contribution | Period |
-| --- | --- | --- |
-| [Hello Job](https://github.com/Ja-efan/HelloJob) | Company-research agents, a SWOT MCP tool, and AI backend pipelines for job applications and interviews | Apr–May 2025 |
-| [쇼쇼숏](https://github.com/Ja-efan/shoshoshorts) | Image-generation backend and prompts; AWS/GCP infrastructure and CI/CD | Feb–Apr 2025 |
-| [MeetGenius](https://github.com/Ja-efan/MeetGenius) | On-device RAG and meeting summaries with EXAONE, FastAPI, and Jetson Orin Nano | Jan–Feb 2025 |
-| [swot-analysis-mcp](https://github.com/Ja-efan/swot-analysis-mcp) | MCP server for structured company SWOT analysis | 2025 |
-
-## Core Technologies
-
-Python · TypeScript · LLM Agents · LangGraph · MCP · PyTorch · FastAPI · Docker · AWS · GCP
-
-## Education & Awards
-
-- **Chungnam National University** — B.S. in Computer Science and Engineering, 2024
-- **Samsung Software & AI Academy For Youth (SSAFY), 12th cohort** — Data track, Jul 2024–Jun 2025
-- **SSAFY 자율 프로젝트 전시발표회 우수상** — Jun 2025
-- **SSAFY 자율 프로젝트 우수상** — May 2025
+Python · TypeScript · LangGraph · MCP · FastAPI · Docker · AWS · GCP
