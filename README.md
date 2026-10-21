@@ -16,13 +16,13 @@ Built the initial script-based editing feature and later led its redesign based 
 Built a pipeline that identifies visually meaningful segments from video keyframes and generates descriptions for editing and search. Extended editing support to selecting and assembling requested scenes in videos without speech.
 
 **Agent Optimization: Reducing Execution Time and Cost**  
-Optimized how agents receive context and execute tasks by reusing common inputs and preparing task data in advance. Context caching reduced server-side script-based editing costs by about 30%, while optimizations including prefetch and single-shot prompting cut execution time by about 21%.
+Optimized how agents receive context and execute tasks by reusing common inputs and preparing task data in advance. Context caching reduced server-side script-based editing costs by about 30%, while optimizations including prefetch, single-shot prompting, and inference settings cut execution time by about 21%.
 
 **Evaluation: Automated Evaluation for Multiple Valid Outputs**  
 Replaced fixed-label matching in video topic segmentation with LLM-based evaluation against the existing guidelines to recognize multiple valid outputs. Automated batch evaluations and recorded results so model and prompt changes could be compared.
 
 **Architecture Wiki: Keeping Team Knowledge in Sync with Code**  
-Built a pipeline that analyzes code changes, proposes updates to the Markdown architecture wiki, and shares updates through Slack. Gave teammates and coding agents a shared reference for module structure and dependencies, supporting collaboration and onboarding.
+Helped design and then operated the pipeline in which a coding agent proposes wiki updates as PRs when code changes. Fixed PRs overwriting each other and added a daily Slack digest that pings reviewers about wiki PRs left unreviewed for over 24 hours. About 100 auto-generated update PRs were merged in 2.5 months, accounting for roughly 79% of wiki changes.
 
 ## Selected Projects
 
