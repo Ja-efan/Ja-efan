@@ -32,4 +32,4 @@
 
 ## 주요 기술
 
-Python · TypeScript · FastAPI · Agent · LangGraph · MCP · RAG · Docker · AWS · GCP
+Python · TypeScript · FastAPI · Agent · LangChain · LangGraph · MCP · RAG · Docker · AWS · GCP
