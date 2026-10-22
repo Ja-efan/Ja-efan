@@ -32,4 +32,4 @@ Helped design and then operated the pipeline in which a coding agent proposes wi
 
 ## Technologies
 
-Python · TypeScript · LangGraph · MCP · FastAPI · Docker · AWS · GCP
+Python · TypeScript · FastAPI · Agent · LangGraph · MCP · RAG · Docker · AWS · GCP
