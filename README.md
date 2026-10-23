@@ -16,7 +16,7 @@ Built the initial script-based editing feature and later led its redesign based 
 Built a pipeline that identifies visually meaningful segments from video keyframes and generates descriptions for editing and search. Extended editing support to selecting and assembling requested scenes in videos without speech.
 
 **Agent Optimization: Reducing Execution Time and Cost**  
-Optimized how agents receive context and execute tasks by reusing common inputs and preparing task data in advance. Context caching reduced server-side script-based editing costs by about 30%, while optimizations including prefetch, single-shot prompting, and inference settings cut execution time by about 21%.
+Optimized how agents receive context and execute tasks by reusing common inputs and preparing task data in advance. On the server pipeline, context caching reduced script-based editing costs by about 30%. After the feature moved to the chat agent, moving repeated verification into code and adding prefetch and single-shot prompting cut run time on the same video from about 29 minutes to 6.5 minutes.
 
 **Evaluation: Automated Evaluation for Multiple Valid Outputs**  
 Replaced fixed-label matching in video topic segmentation with LLM-based evaluation against the existing guidelines to recognize multiple valid outputs. Automated batch evaluations and recorded results so model and prompt changes could be compared.
